@@ -1,0 +1,30 @@
+.flex-container {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-evenly;
+  padding: 20px;
+}
+.navbar-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-self: center;
+  width: 500px;
+}
+
+.dashboard-button {
+  display: flex;
+  background-color: #282a3a;
+  padding: 14px 24px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
