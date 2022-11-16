@@ -1,0 +1,52 @@
+.first-box{
+    display: flex;
+    flex-direction: row;
+}
+
+   
+
+.black-box-button{
+    display: flex;
+    background-color: #282a3a;
+    padding: 14px 24px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;}
+
+
+
+
+    .first-box{
+        justify-content:space-between ;}
+
+
+
+
+        .rates{
+           display: flex;
+           flex-direction: row;
+           justify-content:space-between ;
+           
+
+        }
+        .texters{
+            font-size: small;
+        }
+        
+    .identifying{
+        margin: 100px 100px 100px 100px;
+        font-size:xx-large;
+
+
+    }
+
+
+     
+
+
+
+
+
+
